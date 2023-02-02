@@ -13,10 +13,10 @@
 
 ## Introduction
 
-To avoid the exposure of original source code, the variable names deployed in the wild are often replaced by short, meaningless names,
+To avoid the exposure of original source code, the variable names deployed in the wild are often replaced by short, meaningless names,
 thus making the code difficult to understand and be analyzed. We
 introduce DeMinify, a Deep-Learning (DL)-based approach that
-formulates such recovery problem as the predicting the missing features in the Graph Convolutional Network–Missing Features. The
+formulates such recovery problem as the predicting the missing features in the Graph Convolutional Network–Missing Features. The
 graph represents both the relations among the variables and those
 among their types, in which names/types of some nodes are missing.
 Moreover, DeMinify leverages dual-task learning to propagate the
