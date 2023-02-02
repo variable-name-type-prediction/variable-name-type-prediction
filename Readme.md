@@ -54,5 +54,7 @@ Install ```tqdm``` by following the Instruction from [tqdm](https://github.com/t
 
 ## Instruction_to_Run_DeMinify
 
-Download the DeMinify source code and run ```main.py``` to see the result for our experiment. 
+1. Download the dataset and save it in ```../DeMinify/data``` folder.
+
+2. Download the DeMinify source code and run ```main.py``` to see the result for our experiment. 
 
