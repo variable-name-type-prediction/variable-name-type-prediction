@@ -35,7 +35,9 @@ that learning of types help improve variable name recovery.
 ## Dataset
 
 We use two datasets from existing benchmarks and research works:
+
 python dataset: [ManyTypes4Py: A Benchmark Python Dataset for Machine Learning-based Type Inference](https://github.com/saltudelft/many-types-4-py-dataset)
+
 JavaScript dataset: [Recovering Variable Names for Minified Code with Usage Contexts](https://mrstarrynight.github.io/JSNeat/index.html)
 
 ## Requirement
